@@ -34,8 +34,20 @@ Run that uberjar:
 [file] - resume a previously saved game
 
 ## Examples
+```
+noisesmith.cyberbaby=> (-main)
 
-...
+(ins)> hi
+?
+
+(ins)> hmm
+?
+
+(ins)> notice
+you are in a simple world, and you have seen the entirety of what exists
+YAY YOU WON!
+nil
+```
 
 ### Bugs
 
